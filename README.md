@@ -16,4 +16,5 @@ Pull requests are welcome
 ![vimception.png](vimception.png)
 ![vimscript-is-literally-duct-tape-programming.jpg](vimscript-is-literally-duct-tape-programming.jpg)
 ![here-we-go-again.jpg](here-we-go-again.jpg)
+![mouse-free-vim.jpg](mouse-free-vim.jpg)
 
